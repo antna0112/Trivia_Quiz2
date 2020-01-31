@@ -1,4 +1,4 @@
-# Trivia_Quiz2
+# Trivia_Quiz
 
 CREATED BY ANTHONY GRAZIANO
 
